@@ -5,7 +5,6 @@ public class SocialCorona {
     // a field to refer front end of queue
     private static Nodee front;
     private int size;// total number of elements in the queue
-    // constructor
     public SocialCorona() {
         front = null;
         rear = null;
