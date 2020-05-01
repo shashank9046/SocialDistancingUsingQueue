@@ -11,7 +11,6 @@ public class SocialCorona {
         rear = null;
         size = 0;
     }
-
     // a method to check whether queue is empty
     public boolean isEmpty() {
         boolean response = false;
